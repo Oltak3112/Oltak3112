@@ -4,7 +4,6 @@
  Based in Botswana
  Aspiring Web Developer
  Learning HTML, CSS, PHP & Laravel
- Looking for my first junior developer role
 
 ##  Skills
 - HTML & CSS
