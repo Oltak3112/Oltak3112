@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Katlo Fabio Gaorekwe 
 
-<!--
-**Oltak3112/Oltak3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+ Based in Botswana
+ Aspiring Web Developer
+ Learning HTML, CSS, PHP & Laravel
+ Looking for my first junior developer role
 
-Here are some ideas to get you started:
+##  Skills
+- HTML & CSS
+- PHP
+- Laravel
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [My Portfolio](https://github.com/Oltak3112/my-portfolio) — Personal portfolio built with HTML & CSS
+- [Task Manager](https://github.com/Oltak3112/task-manager) — Full CRUD app built with Laravel & MySQL
+
+## Contact
+- Email: katlofabiogaorekwe@gmail.com
